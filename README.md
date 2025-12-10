@@ -138,4 +138,7 @@ Para mostrar certificado com imagem (opcional):
   <img src="LINK_DA_IMAGEM_DO_CERTIFICADO" width="300"/>
 </p>
 
+```
+
+<p align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xppiw4s857zibjbr6k9y8xrsd&cover_image=true&theme=novatorem" /> </p>
 
