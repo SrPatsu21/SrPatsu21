@@ -28,32 +28,34 @@ Todos os widgets abaixo são **instâncias estáveis que continuam funcionando**
 
 ---
 
-## 📈 GitHub Stats (tema dark)
+## 📈 GitHub Stats (alternativa estável)
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
+    src="https://github-readme-stats.zcy.dev/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
   />
 </p>
 
 ---
 
-## 🌈 Linguagens mais usadas (tema dark)
+## 🌈 Linguagens mais usadas (alternativa)
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff"
+    src="https://github-readme-stats.zcy.dev/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff"
   />
 </p>
 
 ---
 
-## 🔥 GitHub Streak (tema dark)
+## 🔥 GitHub Streak
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SrPatsu21&theme=dark&background=0d1117&currStreakLabel=2d77dc&sideLabels=ffffff&dates=ffffff&ring=bf7af0&fire=bf7af0&hide_border=true"
+    src="https://streak-stats.demolab.com?user=SrPatsu21&theme=dark&background=0d1117"
+    alt="GitHub Streak"
   />
 </p>
+
 
 ---
 
