@@ -45,39 +45,39 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
 ---
 
 ## 📈 GitHub Stats (modo claro)
-<a href="https://github.com/SEU_USUARIO#gh-light-mode-only">
+<a href="https://github.com/SrPatsu21#gh-light-mode-only">
   <img
     height="180"
     alt="GitHub Stats"
-    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&disable_animations=true#gh-light-mode-only"
+    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&disable_animations=true#gh-light-mode-only"
   />
 </a>
 
 ## 🌈 Linguagens (modo claro — gráfico de pizza)
-<a href="https://github.com/SEU_USUARIO#gh-light-mode-only">
+<a href="https://github.com/SrPatsu21#gh-light-mode-only">
   <img
     width="300"
     alt="Top Langs"
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-light-mode-only"
+    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-light-mode-only"
   />
 </a>
 
 ---
 
 ## 🌙 Dark Mode – Stats + Languages
-<a href="https://github.com/SEU_USUARIO#gh-dark-mode-only">
+<a href="https://github.com/SrPatsu21#gh-dark-mode-only">
   <img
     height="180"
     alt="GitHub Stats Dark"
-    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
+    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
   />
 </a>
 
-<a href="https://github.com/SEU_USUARIO#gh-dark-mode-only">
+<a href="https://github.com/SrPatsu21#gh-dark-mode-only">
   <img
     width="300"
     alt="Top Langs Dark"
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
+    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
   />
 </a>
 
@@ -86,7 +86,7 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
 ## 🔥 GitHub Streak (claro)
 <div align="center">
   <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SEU_USUARIO&hide_border=true&disable_animations=true#gh-light-mode-only"
+      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&hide_border=true&disable_animations=true#gh-light-mode-only"
       alt="GitHub Streak"
   />
 </div>
@@ -94,7 +94,7 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
 ## 🌑 GitHub Streak (dark)
 <div align="center">
   <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SEU_USUARIO&background=0d1117&hide_border=true&ring=2d77dc&fire=2d77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=true#gh-dark-mode-only"
+      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=2d77dc&fire=2d77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=true#gh-dark-mode-only"
       alt="GitHub Streak Dark"
   />
 </div>
@@ -104,7 +104,7 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
 ## 📆 Gráfico de atividade real (funciona!)
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
     alt="Activity Graph"
   />
 </div>
