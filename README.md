@@ -24,7 +24,7 @@ Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arqui
 
 # 📊 Estatísticas do GitHub
 
-Todos os widgets abaixo usam **serviços oficiais e estáveis**, o que significa que não quebram.
+Todos os widgets abaixo são **instâncias estáveis que continuam funcionando**.
 
 ---
 
@@ -32,7 +32,7 @@ Todos os widgets abaixo usam **serviços oficiais e estáveis**, o que significa
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
   />
 </p>
 
@@ -42,7 +42,7 @@ Todos os widgets abaixo usam **serviços oficiais e estáveis**, o que significa
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff"
   />
 </p>
 
@@ -51,8 +51,7 @@ Todos os widgets abaixo usam **serviços oficiais e estáveis**, o que significa
 ## 🔥 GitHub Streak (tema dark)
 <p align="center">
   <img
-      src="https://streak-stats.demolab.com?user=SrPatsu21&theme=dark&background=0d1117&currStreakLabel=2d77dc&sideLabels=ffffff&dates=ffffff&ring=bf7af0&fire=bf7af0&hide_border=true"
-      alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=SrPatsu21&theme=dark&background=0d1117&currStreakLabel=2d77dc&sideLabels=ffffff&dates=ffffff&ring=bf7af0&fire=bf7af0&hide_border=true"
   />
 </p>
 
@@ -62,7 +61,6 @@ Todos os widgets abaixo usam **serviços oficiais e estáveis**, o que significa
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub"
-    alt="Activity Graph"
   />
 </p>
 
