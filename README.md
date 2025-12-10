@@ -72,14 +72,14 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar informações sobre minhas hab
 ## 📊 Minhas estatísticas do GitHub
 
 ### 📈 Estatísticas gerais  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrPatsu21&show_icons=true&theme=radical)
 
 ### 🧑‍💻 Atividade recente  
-![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=dracula)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=dracula)
 
 ## 🎮 Gráfico de contribuições — estilo Pac-Man  
 <picture>
-  <img alt="Pac‑Man GitHub contributions" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man GitHub contributions" src="https://raw.githubusercontent.com/SrPatsu21/SrPatsu21/output/pacman-contribution-graph.svg">
 </picture>
 
 
