@@ -71,21 +71,21 @@ Bem-vindo ao meu perfil! Aqui você vai encontrar informações sobre minhas hab
 
 ## 📊 Minhas estatísticas do GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrPatsu21&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrPatsu21&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatsu21&layout=compact&theme=radical)
 
 ---
 
 ## 🔔 Calendário de commits
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SEU_USUARIO&theme=react-dark&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SrPatsu21&theme=react-dark&area=true)
 
 ---
 
 ## 🏆 Conquistas
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=SrPatsu21&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
