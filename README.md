@@ -94,14 +94,14 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
 ## 🌑 GitHub Streak (dark)
 <div align="center">
   <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=2d77dc&fire=2d77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=true#gh-dark-mode-only"
+      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=fd77dc&fire=fd77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=true#gh-dark-mode-only"
       alt="GitHub Streak Dark"
   />
 </div>
 
 ---
 
-## 📆 Gráfico de atividade real (funciona!)
+## 📆 Gráfico de atividade
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
