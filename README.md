@@ -1,22 +1,6 @@
 ## Hi there 👋
 
-<!--
-**SrPatsu21/SrPatsu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- Banner opcional -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=SrPatsu21&fontSize=50&fontAlignY=35&fontColor=ffffff" />
 </p>
@@ -34,80 +18,53 @@ Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arqui
 - ☕ Experiência com Java  
 - 🐳 Docker & containerização  
 - 🧪 Curioso por kernel, baixo nível e redes  
-- 📜 Curto estudar e colecionar certificados técnicos  
+- 📜 Colecionador de certificações técnicas  
 
 ---
 
 # 📊 Estatísticas do GitHub
 
-As estatísticas a seguir são geradas por forks estáveis de serviços (evitando instâncias quebradas).
+Todos os widgets abaixo usam **serviços oficiais e estáveis**, o que significa que não quebram.
 
 ---
 
-## 📈 GitHub Stats (modo claro)
-<a href="https://github.com/SrPatsu21#gh-light-mode-only">
+## 📈 GitHub Stats (tema dark)
+<p align="center">
   <img
     height="180"
-    alt="GitHub Stats"
-    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&disable_animations=true#gh-light-mode-only"
+    src="https://github-readme-stats.vercel.app/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
   />
-</a>
-
-## 🌈 Linguagens (modo claro — gráfico de pizza)
-<a href="https://github.com/SrPatsu21#gh-light-mode-only">
-  <img
-    width="300"
-    alt="Top Langs"
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-light-mode-only"
-  />
-</a>
+</p>
 
 ---
 
-## 🌙 Dark Mode – Stats + Languages
-<a href="https://github.com/SrPatsu21#gh-dark-mode-only">
+## 🌈 Linguagens mais usadas (tema dark)
+<p align="center">
   <img
     height="180"
-    alt="GitHub Stats Dark"
-    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
   />
-</a>
-
-<a href="https://github.com/SrPatsu21#gh-dark-mode-only">
-  <img
-    width="300"
-    alt="Top Langs Dark"
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
-  />
-</a>
+</p>
 
 ---
 
-## 🔥 GitHub Streak (claro)
-<div align="center">
+## 🔥 GitHub Streak (tema dark)
+<p align="center">
   <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&hide_border=true&disable_animations=true#gh-light-mode-only"
+      src="https://streak-stats.demolab.com?user=SrPatsu21&theme=dark&background=0d1117&currStreakLabel=2d77dc&sideLabels=ffffff&dates=ffffff&ring=bf7af0&fire=bf7af0&hide_border=true"
       alt="GitHub Streak"
   />
-</div>
-
-## 🌑 GitHub Streak (dark)
-<div align="center">
-  <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=fd77dc&fire=fd77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=true#gh-dark-mode-only"
-      alt="GitHub Streak Dark"
-  />
-</div>
+</p>
 
 ---
 
 ## 📆 Gráfico de atividade
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub"
     alt="Activity Graph"
   />
-</div>
+</p>
 
 ---
 
@@ -121,8 +78,7 @@ Docker • Git • Linux • GCC/Clang • GDB • Valgrind • Make/CMake
 
 ---
 
-# 📜 Certificações  
-*Adicione seus certificados — exemplo com RedHat.*
+# 📜 Certificações
 
 | Certificação | Organização |
 |-------------|-------------|
@@ -131,14 +87,8 @@ Docker • Git • Linux • GCC/Clang • GDB • Valgrind • Make/CMake
 | Linux Essentials | LPI |
 | Node.js Fundamentals | OpenJS |
 
-Para mostrar certificado com imagem (opcional):
-
+### Exemplo com imagem:
 ```html
 <p>
-  <img src="LINK_DA_IMAGEM_DO_CERTIFICADO" width="300"/>
+  <img src="LINK_DA_IMAGEM" width="300"/>
 </p>
-
-```
-
-<p align="center"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xppiw4s857zibjbr6k9y8xrsd&cover_image=true&theme=novatorem" /> </p>
-
