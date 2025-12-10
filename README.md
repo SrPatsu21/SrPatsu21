@@ -1,6 +1,6 @@
-<!-- Banner opcional -->
+<!-- Banner https://capsule-render.vercel.app/ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=SrPatsu21&fontSize=50&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0000&text=SrPatsu21&textBg=false&section=header&reversal=true&fontAlign=50&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Bem-vindo ao meu GitHub!</h2>
