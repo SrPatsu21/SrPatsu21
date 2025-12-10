@@ -21,45 +21,34 @@ I am a developer focused on **C, C++, Node.js**, I also work with **Java**, **Do
 ---
 
 <h2>📊 Statistics</h2>
-
-<h3>📈 GitHub Stats</h3>
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.zcy.dev/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
-    alt="GitHub Stats"
-  />
+<div style="display: flex; justify-content: flex-end; gap: 20px;">
+  <div>
+    <a href="https://github.com/SrPatsu21#gh-dark-mode-only">
       <img
-      height="180"
-      alt="GitHub Stats Dark"
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
-    />
+        width="300"
+        alt="Top Languages Dark"
+        src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
+      />
+    </a>
+  </div>
+  <div>
+    <div>
+      <img
+        height="180"
+        alt="GitHub Stats Dark"
+        src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
+      />
+    </div>
+    <div style="margin-top: 20px;">
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&theme=dark&hide_border=true"
+          alt="GitHub Streak"
+        />
+      </a>
+    </div>
+  </div>
 </div>
-
-
-<h3>📘 Languages</h3>
-<div align="center">
-  <a href="https://github.com/SrPatsu21#gh-dark-mode-only">
-    <img
-      width="300"
-      alt="Top Languages Dark"
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
-    />
-  </a>
-</div>
-
-
-<h3>🔥 GitHub Streak</h3>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&theme=dark&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
-</div>
-
-
 <h3>📆 Activity Chart</h3>
 <div align="center">
   <img
