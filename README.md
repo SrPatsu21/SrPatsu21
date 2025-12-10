@@ -38,13 +38,12 @@ Todos os widgets abaixo são **instâncias estáveis que continuam funcionando**
 
 ---
 
-## 🌈 Linguagens mais usadas (alternativa)
+## 🌈 Linguagens Mais Usadas (alternativa oficial)
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.zcy.dev/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrPatsu21&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrPatsu21&theme=github_dark" height="180"/>
 </p>
+
 
 ---
 
