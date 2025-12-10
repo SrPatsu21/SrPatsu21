@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!-- Banner -->
+<!-- Banner opcional -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=SrPatsu21&fontSize=50&fontAlignY=35&fontColor=ffffff" />
 </p>
@@ -18,52 +16,72 @@ Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arqui
 - ☕ Experiência com Java  
 - 🐳 Docker & containerização  
 - 🧪 Curioso por kernel, baixo nível e redes  
-- 📜 Colecionador de certificações técnicas  
+- 📜 Curto estudar e colecionar certificados técnicos  
 
 ---
 
 # 📊 Estatísticas do GitHub
 
-Todos os widgets abaixo são **instâncias estáveis que continuam funcionando**.
+As estatísticas a seguir são geradas por forks estáveis de serviços (evitando instâncias quebradas).
 
 ---
 
-## 📈 GitHub Stats (alternativa estável)
-<p align="center">
+## 📈 GitHub Stats (modo claro)
+<a href="https://github.com/SrPatsu21#gh-light-mode-only">
   <img
     height="180"
-    src="https://github-readme-stats.zcy.dev/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
+    alt="GitHub Stats"
+    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&disable_animations=true#gh-light-mode-only"
   />
-</p>
+</a>
 
----
-
-## 🌈 Linguagens Mais Usadas (alternativa oficial)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrPatsu21&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrPatsu21&theme=github_dark" height="180"/>
-</p>
-
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
+## 🌈 Linguagens (modo claro — gráfico de pizza)
+<a href="https://github.com/SrPatsu21#gh-light-mode-only">
   <img
-    src="https://streak-stats.demolab.com?user=SrPatsu21&theme=dark&background=0d1117"
-    alt="GitHub Streak"
+    width="300"
+    alt="Top Langs"
+    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-light-mode-only"
   />
-</p>
-
+</a>
 
 ---
 
-## 📆 Gráfico de atividade
-<p align="center">
+## 🌙 Dark Mode – Stats + Languages
+<a href="https://github.com/SrPatsu21#gh-dark-mode-only">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub"
+    height="180"
+    alt="GitHub Stats Dark"
+    src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
   />
-</p>
+</a>
+
+<a href="https://github.com/SrPatsu21#gh-dark-mode-only">
+  <img
+    width="300"
+    alt="Top Langs Dark"
+    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
+  />
+</a>
+
+---
+
+## 🌑 GitHub Streak (dark)
+<div align="center">
+  <img
+      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=fd77dc&fire=fd77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=true#gh-dark-mode-only"
+      alt="GitHub Streak Dark"
+  />
+</div>
+
+---
+
+## 📆 Gráfico de atividade real
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
+    alt="Activity Graph"
+  />
+</div>
 
 ---
 
@@ -77,7 +95,8 @@ Docker • Git • Linux • GCC/Clang • GDB • Valgrind • Make/CMake
 
 ---
 
-# 📜 Certificações
+# 📜 Certificações  
+*Adicione seus certificados — exemplo com RedHat.*
 
 | Certificação | Organização |
 |-------------|-------------|
@@ -86,8 +105,9 @@ Docker • Git • Linux • GCC/Clang • GDB • Valgrind • Make/CMake
 | Linux Essentials | LPI |
 | Node.js Fundamentals | OpenJS |
 
-### Exemplo com imagem:
+Para mostrar certificado com imagem (opcional):
+
 ```html
 <p>
-  <img src="LINK_DA_IMAGEM" width="300"/>
+  <img src="LINK_DA_IMAGEM_DO_CERTIFICADO" width="300"/>
 </p>
