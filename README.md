@@ -32,7 +32,7 @@ Todos os widgets abaixo são **instâncias estáveis que continuam funcionando**
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
+    src="https://github-readme-stats.vercel.app/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
   />
 </p>
 
@@ -42,7 +42,7 @@ Todos os widgets abaixo são **instâncias estáveis que continuam funcionando**
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrPatsu21&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff"
   />
 </p>
 
