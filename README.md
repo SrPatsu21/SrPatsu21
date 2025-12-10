@@ -65,10 +65,10 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
 
 ---
 
-## 🌑 GitHub Streak (dark)
+## GitHub Streak
 <div align="center">
   <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=fd77dc&fire=fd77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=true#gh-dark-mode-only"
+      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=fd77dc&fire=fd77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=false#gh-dark-mode-only"
       alt="GitHub Streak Dark"
   />
 </div>
