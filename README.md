@@ -10,45 +10,45 @@ I am a developer focused on **C, C++, Node.js**, I also work with **Java**, **Do
 - 🧩 Node.js (Express & React) for APIs and automations
 - ☕ Experience with Java
 - 🐳 Docker & containerization
-- 📫 How to reach me: ?
-
+- 📫 How to reach me: paulosergiopierdona@gmail.com
 - 🧪 Curious about kernel, low-level programming
 - 🤔 I’m looking for help with my Vulkan project
 - 🌱 I’m currently learning C++, Vulkan
 - 🔭 I’m currently working on my final project (TCC)
 
-
 ---
 
-<h2>📊 Statistics</h2>
-<div style="display: flex; justify-content: flex-end; gap: 20px;">
-  <div>
-    <a href="https://github.com/SrPatsu21#gh-dark-mode-only">
-      <img
-        width="300"
-        alt="Top Languages Dark"
-        src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
-      />
-    </a>
-  </div>
-  <div>
-    <div>
+<h3>📊 Statistics</h2>
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <!-- LANGUAGES -->
+    <td align="center" style="padding-right: 20px;">
+      <a href="https://github.com/SrPatsu21#gh-dark-mode-only">
+        <img
+          width="300"
+          alt="Top Languages Dark"
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-dark-mode-only"
+        />
+      </a>
+    </td>
+    <!-- STATS + STREAK -->
+    <td align="center">
       <img
         height="180"
         alt="GitHub Stats Dark"
         src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
       />
-    </div>
-    <div style="margin-top: 20px;">
+      <br /><br />
       <a href="https://git.io/streak-stats">
         <img
           src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&theme=dark&hide_border=true"
           alt="GitHub Streak"
         />
       </a>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 <h3>📆 Activity Chart</h3>
 <div align="center">
   <img
