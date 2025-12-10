@@ -1,46 +1,26 @@
 <!-- Banner https://capsule-render.vercel.app/ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0000&text=SrPatsu21&textBg=false&section=footer&reversal=true&fontAlign=50&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2666bc&text=SrPatsu21&textBg=false&section=footer&reversal=true&fontAlign=50&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
 </p>
 
-<h2 align="center">👋 Bem-vindo ao meu GitHub!</h2>
+I am a developer focused on **C, C++, Node.js**, I also work with **Java**, **Docker** environments, DevOps tools, and **Vulkan**.
 
-Sou desenvolvedor focado em **C, C++, Node.js**, mexo com **Java**, e adoro explorar ambientes **Docker**, ferramentas DevOps e sistemas de alta performance.  
-Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arquiteturas distribuídas.
+## 🚀 About Me
+- 🔧 Systems Developer (C & C++)
+- 🧩 Node.js (Express & React) for APIs and automations
+- ☕ Experience with Java
+- 🐳 Docker & containerization
+- 📫 How to reach me: ?
+
+- 🧪 Curious about kernel, low-level programming
+- 🤔 I’m looking for help with my Vulkan project
+- 🌱 I’m currently learning C++, Vulkan
+- 🔭 I’m currently working on my final project (TCC)
+
 
 ---
 
-## 🚀 Sobre mim
-- 🔧 Desenvolvedor de sistemas (C & C++)  
-- 🧩 Node.js para APIs e automações  
-- ☕ Experiência com Java  
-- 🐳 Docker & containerização  
-- 🧪 Curioso por kernel, baixo nível e redes  
-- 📜 Curto estudar e colecionar certificados técnicos  
-
----
-
-<!--
-**SrPatsu21/SrPatsu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<h2>📊 Estatísticas do GitHub</h2>
-
-<p>As estatísticas abaixo usam forks estáveis para evitar instâncias fora do ar.</p>
-
+<h2>📊 Statistics</h2>
 
 <h3>📈 GitHub Stats</h3>
 <div align="center">
@@ -49,19 +29,16 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.zcy.dev/api?username=SrPatsu21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d77dc&text_color=ffffff&icon_color=2d77dc"
     alt="GitHub Stats"
   />
-</div>
-
-
-<h3>🌙 Dark Mode – Stats + Languages</h3>
-<div align="center">
-  <a href="https://github.com/SrPatsu21#gh-dark-mode-only">
-    <img
+      <img
       height="180"
       alt="GitHub Stats Dark"
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=2d77dc&icon_color=2d77dc&rank_icon=percentile&disable_animations=true#gh-dark-mode-only"
     />
-  </a>
+</div>
 
+
+<h3>📘 Languages</h3>
+<div align="center">
   <a href="https://github.com/SrPatsu21#gh-dark-mode-only">
     <img
       width="300"
@@ -83,7 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3>📆 Gráfico de Atividade</h3>
+<h3>📆 Activity Chart</h3>
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SrPatsu21&theme=github-dark&hide_border=true&area=true&custom_title=Minha%20Atividade%20no%20GitHub"
@@ -95,27 +72,23 @@ Here are some ideas to get you started:
 
 # 🧠 Skills & Tecnologias
 
-### 💻 Linguagens
-C • C++ • Node.js • Java • Shell Script
+### 💻 Languages
+C • C++ • Node.js • Java
 
-### 🛠 Ferramentas
-Docker • Git • Linux • GCC/Clang • GDB • Valgrind • Make/CMake
+### 🛠 Tools
+docker • git • Linux • GCC/Clang • Make/CMake • draw.oi • vscode
 
 ---
 
-# 📜 Certificações  
+# 📜 Certifications  
 *Adicione seus certificados — exemplo com RedHat.*
 
 | Certificação | Organização |
 |-------------|-------------|
-| Red Hat Certified System Administrator (RHCSA) | Red Hat |
 | Docker Essentials | IBM |
-| Linux Essentials | LPI |
-| Node.js Fundamentals | OpenJS |
-
-Para mostrar certificado com imagem (opcional):
 
 ```html
 <p>
   <img src="LINK_DA_IMAGEM_DO_CERTIFICADO" width="300"/>
 </p>
+```
