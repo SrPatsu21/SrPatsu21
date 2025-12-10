@@ -34,16 +34,6 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
     src="https://github-readme-stats-steel-omega.vercel.app/api?username=SrPatsu21&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=percentile&disable_animations=true#gh-light-mode-only"
   />
 </a>
-
-## 🌈 Linguagens (modo claro — gráfico de pizza)
-<a href="https://github.com/SrPatsu21#gh-light-mode-only">
-  <img
-    width="300"
-    alt="Top Langs"
-    src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=SrPatsu21&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true#gh-light-mode-only"
-  />
-</a>
-
 ---
 
 ## 🌙 Dark Mode – Stats + Languages
@@ -65,13 +55,10 @@ As estatísticas a seguir são geradas por forks estáveis de serviços (evitand
 
 ---
 
+
+<!-- https://github-readme-streak-stats-phi-opal.vercel.app/demo/ --> 
 ## GitHub Streak
-<div align="center">
-  <img
-      src="https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&background=0d1117&hide_border=true&ring=fd77dc&fire=fd77dc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&disable_animations=false#gh-dark-mode-only"
-      alt="GitHub Streak Dark"
-  />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-phi-opal.vercel.app?user=SrPatsu21&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
