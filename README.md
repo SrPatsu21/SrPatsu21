@@ -1,6 +1,6 @@
 <!-- Banner https://capsule-render.vercel.app/ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0000&text=SrPatsu21&textBg=false&section=header&reversal=true&fontAlign=50&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0000&text=SrPatsu21&textBg=false&section=footer&reversal=true&fontAlign=50&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=75" />
 </p>
 
 <h2 align="center">👋 Bem-vindo ao meu GitHub!</h2>
@@ -24,7 +24,6 @@ Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arqui
 
 <p>As estatísticas abaixo usam forks estáveis para evitar instâncias fora do ar.</p>
 
-<hr>
 
 <h3>📈 GitHub Stats</h3>
 <div align="center">
@@ -35,7 +34,6 @@ Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arqui
   />
 </div>
 
-<hr>
 
 <h3>🌙 Dark Mode – Stats + Languages</h3>
 <div align="center">
@@ -56,7 +54,6 @@ Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arqui
   </a>
 </div>
 
-<hr>
 
 <h3>🔥 GitHub Streak</h3>
 <div align="center">
@@ -68,7 +65,6 @@ Gosto de criar soluções de baixo nível, sistemas rápidos e brincar com arqui
   </a>
 </div>
 
-<hr>
 
 <h3>📆 Gráfico de Atividade</h3>
 <div align="center">
