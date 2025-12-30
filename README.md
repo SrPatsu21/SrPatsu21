@@ -74,10 +74,10 @@ docker • git • Linux • GCC/Clang • Make/CMake • draw.oi • vscode
 
 | Certificação | Organização |
 |-------------|-------------|
-| Cybersecurity Essentials | Cisco |
+| [Cybersecurity Essentials](https://www.credly.com/badges/030fc71a-ccbf-4051-9c84-252338db73e3/public_url) | Cisco |
 
 <p>
-  <img src="https://www.credly.com/badges/030fc71a-ccbf-4051-9c84-252338db73e3/public_url" width="300"/>
+  <img width="300" height="300" alt="cybersecurity-essentials" src="https://github.com/user-attachments/assets/373e465a-b258-4304-abd4-1c1c9c004575" />
 </p>
 
 ```html
