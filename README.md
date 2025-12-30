@@ -92,5 +92,3 @@ Of course, there are other tools I know how to use, but they're not my area of â
 [w12h.pdf](https://github.com/user-attachments/files/24385100/w12h.pdf)
 [6913cbedc6aad.pdf](https://github.com/user-attachments/files/24385132/6913cbedc6aad.pdf)
 [CERTIFICADO_PROEX_41605.pdf](https://github.com/user-attachments/files/24385139/CERTIFICADO_PROEX_41605.pdf)
-
-
