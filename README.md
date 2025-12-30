@@ -65,12 +65,13 @@ I am a developer focused on **C, C++, Node.js**, I also work with **Java**, **Do
 C • C++ • Node.js • Java
 
 ### 🛠 Tools
-docker • git • Linux • GCC/Clang • Make/CMake • draw.oi • vscode
+docker • git • Linux • GCC/Clang • Make/CMake • draw.oi • vscode • Figma • swagger
+
+Of course, there are other tools I know how to use, but they're not my area of ​​expertise.
 
 ---
 
 # 📜 Certifications  
-*Adicione seus certificados — exemplo com RedHat.*
 
 | Certificação | Organização |
 |-------------|-------------|
@@ -78,18 +79,18 @@ docker • git • Linux • GCC/Clang • Make/CMake • draw.oi • vscode
 | [Fundamentos do Gerenciamento de Projetos Predictive](https://www.credly.com/badges/449e6c58-6545-45bc-9393-a9cbfc8f3873/public_url) | Project Management Institute |
 | [Introduction to IoT](https://www.credly.com/badges/2494ffb2-417e-4c37-9b2d-75ea339fd7b8/public_url) | Cisco |
 | [Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188 - RHA) - Ver. 4.18](https://www.credly.com/badges/b6261671-9b7f-4606-8c43-dd61eb2c350c/public_url) | Red Hat |
+| W12 certificate, advanced level B2 | Wizard |
+| LATINOWARE 22° | LATINOWARE |
+| SOLAMIGO extension project:SISTEMA DE GESTÃO PARA CONECTAR ENERGIA SOLAR E COMUNIDADE (MANAGEMENT SYSTEM TO CONNECT SOLAR ENERGY AND COMMUNITY) | IFC Videira |
 
 <img width="300" height="300" alt="cybersecurity-essentials" src="https://github.com/user-attachments/assets/373e465a-b258-4304-abd4-1c1c9c004575" />
+[Cybersecurity_Essentials.pdf](https://github.com/user-attachments/files/24385175/Cybersecurity_Essentials.pdf)
 <img width="300" height="300" alt="fundamentos-do-gerenciamento-de-projetos-predictive" src="https://github.com/user-attachments/assets/794a9078-164a-4935-93cd-dbb95a7ddc9f" />
 <img width="300" height="300" alt="introduction-to-iot" src="https://github.com/user-attachments/assets/1d2819b5-580f-4ba4-b70b-36e0e4d0cd4c" />
+[Introdução à Int-certificate.pdf](https://github.com/user-attachments/files/24385178/Introducao.a.Int-certificate.pdf)
 <img width="304" height="304" alt="red-hat-openshift-development-i-introduction-to-con 2" src="https://github.com/user-attachments/assets/bae58b06-822c-4c21-ad4e-a9783b112dcb" />
+[w12h.pdf](https://github.com/user-attachments/files/24385100/w12h.pdf)
+[6913cbedc6aad.pdf](https://github.com/user-attachments/files/24385132/6913cbedc6aad.pdf)
+[CERTIFICADO_PROEX_41605.pdf](https://github.com/user-attachments/files/24385139/CERTIFICADO_PROEX_41605.pdf)
 
 
-
-
-
-```html
-<p>
-  <img src="LINK_DA_IMAGEM_DO_CERTIFICADO" width="300"/>
-</p>
-```
