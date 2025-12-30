@@ -76,7 +76,9 @@ docker • git • Linux • GCC/Clang • Make/CMake • draw.oi • vscode
 |-------------|-------------|
 | Cybersecurity Essentials | Cisco |
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="030fc71a-ccbf-4051-9c84-252338db73e3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p>
+  <img src="https://www.credly.com/badges/030fc71a-ccbf-4051-9c84-252338db73e3/public_url" width="300"/>
+</p>
 
 ```html
 <p>
