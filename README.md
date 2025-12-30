@@ -75,10 +75,18 @@ docker • git • Linux • GCC/Clang • Make/CMake • draw.oi • vscode
 | Certificação | Organização |
 |-------------|-------------|
 | [Cybersecurity Essentials](https://www.credly.com/badges/030fc71a-ccbf-4051-9c84-252338db73e3/public_url) | Cisco |
+| [Fundamentos do Gerenciamento de Projetos Predictive](https://www.credly.com/badges/449e6c58-6545-45bc-9393-a9cbfc8f3873/public_url) | Project Management Institute |
+| [Introduction to IoT](https://www.credly.com/badges/2494ffb2-417e-4c37-9b2d-75ea339fd7b8/public_url) | Cisco |
+| [Red Hat OpenShift Development I: Introduction to Containers with Podman (DO188 - RHA) - Ver. 4.18](https://www.credly.com/badges/b6261671-9b7f-4606-8c43-dd61eb2c350c/public_url) | Red Hat |
 
-<p>
-  <img width="300" height="300" alt="cybersecurity-essentials" src="https://github.com/user-attachments/assets/373e465a-b258-4304-abd4-1c1c9c004575" />
-</p>
+<img width="300" height="300" alt="cybersecurity-essentials" src="https://github.com/user-attachments/assets/373e465a-b258-4304-abd4-1c1c9c004575" />
+<img width="300" height="300" alt="fundamentos-do-gerenciamento-de-projetos-predictive" src="https://github.com/user-attachments/assets/794a9078-164a-4935-93cd-dbb95a7ddc9f" />
+<img width="300" height="300" alt="introduction-to-iot" src="https://github.com/user-attachments/assets/1d2819b5-580f-4ba4-b70b-36e0e4d0cd4c" />
+<img width="304" height="304" alt="red-hat-openshift-development-i-introduction-to-con 2" src="https://github.com/user-attachments/assets/bae58b06-822c-4c21-ad4e-a9783b112dcb" />
+
+
+
+
 
 ```html
 <p>
